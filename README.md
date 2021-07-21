@@ -8,9 +8,9 @@ Eu sou Administrador e estou me desenvolvendo na área de Data Analitics / Ciên
 
 📚 Graduação em Administração de Empresas  (UEMG) - CRA-MG N° 01-059387/D
 
-📚 Graduação em Ciências Contábeis (UNIP)
+📚 Graduação em Ciências Contábeis (UNIFRAN)
 
-📚 MBA em Controladoria e Finanças (UNIP)
+📚 MBA em Controladoria e Finanças (UNIFRAN)
 
 📚 Cursando a Graduação de Ciências de Dados (UNIVESP).
 
