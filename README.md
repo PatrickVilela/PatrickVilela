@@ -6,6 +6,12 @@ Eu sou Administrador e estou me desenvolvendo na área de Data Analitics / Ciên
 
 💻 Consultor e Professor de Análise de Dados (Excel / Power BI / Ciência de Dados / BI / Inteligência de Mercado)
 
+📚 Graduação em Administração de Empresas  (UEMG) - CRA-MG N° 01-059387/D
+
+📚 Graduação em Ciências Contábeis (UNIP)
+
+📚 MBA em Controladoria e Finanças (UNIP)
+
 📚 Cursando a Graduação de Ciências de Dados (UNIVESP).
 
 📈 Estou constantemente aprendendo e melhorando minhas habilidades.
