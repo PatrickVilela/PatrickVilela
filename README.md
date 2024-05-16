@@ -4,7 +4,7 @@ Eu sou Administrador e estou me desenvolvendo na área de Data Analitics / Ciên
 
 💻 Atualmento, trabalho com Gestão Financeira no mercado de Telecom.
 
-💻 Consultor e Professor de Análise de Dados (Excel / Power BI / Ciência de Dados / BI / Inteligência de Mercado)
+💻 Consultor e Professor (Excel / Power BI / Ciência de Dados / BI / Inteligência Artificial)
 
 📚 Graduação em Administração de Empresas  (UEMG) - CRA-MG N° 01-059387/D
 
