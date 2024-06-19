@@ -1,10 +1,12 @@
 # Patrick Nascimento
 
-Eu sou Administrador e estou me desenvolvendo na área de Data Analitics / Ciência de Dados !!!
+Eu sou Especialista na área de Data Analitics / Ciência de Dados !!!
 
-💻 Atualmento, trabalho com Gestão Financeira no mercado de Telecom.
+💻 Atualmento, trabalho como Cientista de dados no mercado de Telecom.
 
 💻 Consultor e Professor (Excel / Power BI / Ciência de Dados / BI / Inteligência Artificial)
+
+💻 Profissional em Automações (Python / Manychat / Make)
 
 📚 Graduação em Administração de Empresas  (UEMG) - CRA-MG N° 01-059387/D
 
